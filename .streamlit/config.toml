@@ -1,0 +1,13 @@
+# Streamlit configuration file
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#4a90e2"
+backgroundColor = "#0d1421"
+secondaryBackgroundColor = "#1e2329"
+textColor = "#ffffff"
+
+[server]
+enableCORS = false
+enableXsrfProtection = false

@@ -9,6 +9,8 @@ An amazing interactive dashboard for visualizing Hong Kong Observatory tide data
 
 ![Dynamic Wave Dashboard](https://via.placeholder.com/800x400/0d1421/ffffff?text=🌊+Dynamic+Wave+Dashboard)
 
+> **Previously "work1"**: This project has evolved from a simple visualization micro project about environment data into a comprehensive tide visualization dashboard with advanced analytics and interactive features.
+
 ## Features
 
 🌊 **Real-time Tide Patterns** - Interactive tide height visualizations with wave-like animations  

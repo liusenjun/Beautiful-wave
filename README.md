@@ -7,8 +7,6 @@
 
 An amazing interactive dashboard for visualizing Hong Kong Observatory tide data at Chek Lap Kok with stunning visual effects and comprehensive analysis.
 
-![Dynamic Wave Dashboard](https://via.placeholder.com/800x400/0d1421/ffffff?text=🌊+Dynamic+Wave+Dashboard)
-
 > This project has evolved from a simple visualization micro project about environment data into a comprehensive tide visualization dashboard with advanced analytics and interactive features.
 
 ## Features
@@ -60,10 +58,6 @@ The dashboard provides several visualization modes:
 - **Analysis**: Harmonic analysis, FFT, machine learning
 - **Data Source**: Web scraping with BeautifulSoup
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -74,14 +68,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit community for the amazing framework
 - Plotly for interactive visualizations
 
-## 📧 Contact
-
-Created by [@liusenjun](https://github.com/liusenjun) - feel free to contact me!
-
 ## ⭐ Show Your Support
 
 Give a ⭐ if this project helped you!
 
 ---
 
-A sophisticated tide visualization system showcasing the beauty of Hong Kong's tidal patterns.
+## 🌊 Interface Display
+
+<img width="1920" height="889" alt="dee83181495143c5567c2422fcf869d6" src="https://github.com/user-attachments/assets/0b048e77-45af-421c-91dd-5bad6d682836" />
+<img width="1920" height="887" alt="fbb198647987b02154981eb4e1ccddc1" src="https://github.com/user-attachments/assets/c5079dcf-6aab-4fb1-86a8-7c63af3cff55" />
+<img width="1920" height="887" alt="3819670b0f2539927b203800dae3e603" src="https://github.com/user-attachments/assets/5099d3c7-17e0-4146-8d4b-83850fb3693d" />
+<img width="1920" height="888" alt="b7ee960505c55413de25ce34d74e27f7" src="https://github.com/user-attachments/assets/2734a45c-c5c8-4b14-b326-e8dcb94b75eb" />
+

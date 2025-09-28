@@ -72,8 +72,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Give a ⭐ if this project helped you!
 
----
-
 ## 🌊 Interface Display
 
 <img width="1920" height="889" alt="dee83181495143c5567c2422fcf869d6" src="https://github.com/user-attachments/assets/0b048e77-45af-421c-91dd-5bad6d682836" />
